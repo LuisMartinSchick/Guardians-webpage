@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7baa4333-eb6b-4f65-a187-2415f77fa6e7" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/90d1c6c09a2010d223fa5716181eeeab.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/1024px-ArmA_3_Logo_(Transparent).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/13a7eff1-c242-4efd-94fa-107af8be0a2e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/14250_company-of-heroes-2-prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/DND_stayhomestaysafe_lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/NicePng_war-thunder-logo-png_6385454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/among us.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/ck3logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/squad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Games/warhammer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/fullsize/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/headerback.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/thumbnails/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bs-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/creative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome5-overrides.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Games/CivilizationVI-Aspyr-Logo__1_.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Tank plains.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/discord.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/ezgif.com-webp-to-png.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/headerback.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/Games" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,6 +47,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets\img\Games" />
+      <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets" />
       <recent name="C:\Users\Luis\WebstormProjects\Guardians" />
       <recent name="C:\Users\Luis\WebstormProjects\Guardians\images" />
     </key>
@@ -91,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602463919047</updated>
       <workItem from="1602463920084" duration="5057000" />
-      <workItem from="1602485932217" duration="12051000" />
+      <workItem from="1602485932217" duration="13945000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1602489469059</created>
@@ -114,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602495072026</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reworked project structure&#10;Reworked appearance">
+      <created>1602509631589</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602509631589</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,13 +102,18 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added &quot;About us&quot; Jumbotron" />
     <MESSAGE value="Reworked project structure&#10;Reworked appearance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked project structure&#10;Reworked appearance" />
+    <MESSAGE value="Added Fonts&#10;Added more Game cards&#10;Updated Contact at the bottom" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Fonts&#10;Added more Game cards&#10;Updated Contact at the bottom" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1046" y="521" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602464691488">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1046" y="521" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602464691488" />
+    <state x="1060" y="461" key="FileChooserDialogImpl" timestamp="1602513439314">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="461" key="FileChooserDialogImpl/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602513439314" />
     <state x="1158" y="617" width="497" height="205" key="Github.ShareDialog" timestamp="1602489015950">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -139,9 +122,9 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1081" y="424" key="Github.UntrackedFilesDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602489022722" />
-    <state x="872" y="452" key="Vcs.Push.Dialog.v2" timestamp="1602495091874">
+    <state x="872" y="452" key="Vcs.Push.Dialog.v2" timestamp="1602509634982">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="872" y="452" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602495091874" />
+    <state x="872" y="452" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602509634982" />
   </component>
 </project>
