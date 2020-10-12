@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7baa4333-eb6b-4f65-a187-2415f77fa6e7" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Login-Form-Dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ingame/50% kills.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ingame/50kills.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ingame/Kidnapping.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ingame/WT planes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ingame/roofheli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/star-sky.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/bs-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bs-init.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -46,10 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets\img" />
+      <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets\css" />
       <recent name="C:\Users\Luis\WebstormProjects\Guardians" />
       <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets\img\Games" />
       <recent name="C:\Users\Luis\WebstormProjects\Guardians\assets" />
-      <recent name="C:\Users\Luis\WebstormProjects\Guardians\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602463919047</updated>
       <workItem from="1602463920084" duration="5057000" />
-      <workItem from="1602485932217" duration="16044000" />
+      <workItem from="1602485932217" duration="18932000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1602489469059</created>
@@ -98,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602513796335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed TeamSpeak link&#10;Added Animations">
+      <created>1602516799390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516799390</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +126,9 @@
     <MESSAGE value="Added &quot;About us&quot; Jumbotron" />
     <MESSAGE value="Reworked project structure&#10;Reworked appearance" />
     <MESSAGE value="Added Fonts&#10;Added more Game cards&#10;Updated Contact at the bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Fonts&#10;Added more Game cards&#10;Updated Contact at the bottom" />
+    <MESSAGE value="Fixed TeamSpeak link&#10;Added Animations" />
+    <MESSAGE value="Added Screenshots in Projects&#10;Current Servers&#10;Added Login screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Screenshots in Projects&#10;Current Servers&#10;Added Login screen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1046" y="521" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602464691488">
@@ -132,9 +151,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1081" y="424" key="Github.UntrackedFilesDialog/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602489022722" />
-    <state x="872" y="452" key="Vcs.Push.Dialog.v2" timestamp="1602513798952">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="-1266" y="699" key="Vcs.Push.Dialog.v2" timestamp="1602516821249">
+      <screen x="-1920" y="360" width="1920" height="1080" />
     </state>
+    <state x="-1266" y="699" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@-1920.360.1920.1080" timestamp="1602516821249" />
     <state x="872" y="452" key="Vcs.Push.Dialog.v2/0.0.2560.1440/-1920.360.1920.1080@0.0.2560.1440" timestamp="1602513798952" />
   </component>
 </project>
