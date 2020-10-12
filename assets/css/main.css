@@ -1,0 +1,148 @@
+html {
+  overflow: initial !important;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background: gray;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/* --- navigation bar --- */
+
+.navbar {
+  background: #222;
+}
+
+.nav-link, .navbar-brand {
+  color: white;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+.nav-link:hover {
+  color: darkred;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+/* -- header-- */
+
+.header {
+  background-image: url('../img/headerback.jpg');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.description {
+  left: 50%;
+  position: absolute;
+  top: 45%;
+  transform: translate(-50%, -55%);
+  text-align: center;
+}
+
+.description h1 {
+  color: whitesmoke;
+  font-size: 8vmin;
+}
+
+.description p {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}
+
+.description button {
+  border: 1px solid grey;
+  background: white;
+  border-radius: 0;
+  color: black;
+}
+
+.description button:hover {
+  border: 1px solid black;
+  background: darkred;
+  color: #000;
+}
+
+.features {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+
+.feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.features img {
+  margin-bottom: 16px;
+}
+
+.features .form-control, .features input {
+  border-radius: 0;
+}
+
+.features .btn {
+  background-color: #589b37;
+  border: 1px solid #589b37;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.features .btn:hover {
+  background-color: #333;
+  border: 1px solid #333;
+}
+
+.page-footer {
+  background-color: #222;
+  color: #ccc;
+  padding: 60px 0 30px;
+}
+
+.footer-copyright {
+  color: #666;
+  padding: 40px 0;
+}
+
+/* Scrollbar Styling */
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: grey;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #222;
+}
+
